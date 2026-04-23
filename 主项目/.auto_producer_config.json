@@ -1,0 +1,15 @@
+{
+  "url": "https://www.douyin.com/jingxuan/theater?modal_id=7623728369070247174",
+  "voice": "lekui",
+  "seconds": 22,
+  "insert_media": [
+    "D:\\视频文案\\3.5\\5bc71e129b74139f25b06c7af947d8ce.mp4",
+    "D:\\视频文案\\3.5\\2f9333f677dfb07fb1d7ced6c767a33d.mp4"
+  ],
+  "tone": "fast_boom",
+  "banner": "你好世界",
+  "audio_mode": "api",
+  "avatar_mode": "local",
+  "voice_file": "E:\\wen\\音色\\乐葵4月2日下午6点42分.aac",
+  "chanjing_voice": "C-Audio-890448a521b0448e87fdf88fc19a5b02"
+}

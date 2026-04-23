@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=多乐AI 后端启动
+Name[zh_CN]=多乐AI 后端启动
+GenericName=0401多乐Ai FastAPI
+Comment=双击在终端中启动后端。若仓库搬家，请同步修改下方 Exec=/Path= 中的绝对路径。首次使用请右键「允许启动」。命令行可用：gio launch ./多乐AI-后端启动.desktop
+Path=/home/wen/音乐/女娲/项目/0401多乐Ai/0401多了AI-主
+# 必须用绝对路径：部分文件管理器对 Path+相对 Exec 支持不好，会导致「作为程序运行」无反应
+Exec=/home/wen/音乐/女娲/项目/0401多乐Ai/0401多了AI-主/run_backend_gui.sh
+Terminal=true
+Icon=utilities-terminal
+Categories=Development;
+StartupNotify=false

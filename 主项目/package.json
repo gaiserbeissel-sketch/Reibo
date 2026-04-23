@@ -1,0 +1,11 @@
+{
+  "name": "0401-duoleai",
+  "private": true,
+  "description": "本目录为应用根（frontend/、backend/）；上级工作区根另有转发脚本指向本目录",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "lint": "cd frontend && npm run lint"
+  }
+}

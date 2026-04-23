@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+backend/.venv/
+backend/venv/
+tools/ComfyUI/.venv/
+
+# Node
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+frontend/dist/
+
+# 换机残留（SMB 上无法删除时可保留，勿提交）
+_node_modules_stale/
+**/.venv_broken_smb/
+**/._*
+
+# 环境与数据（含密钥）
+.env
+backend/.env
+.data/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+*.swp
+*.swo
