@@ -1,0 +1,10 @@
+ffmpeg=/usr/bin/ffmpeg
+sample_mp4=/home/wen/音乐/女娲/项目/0401多乐Ai/.data/video/0272617fe3ac4d5e82191eace4e37063.mp4
+duration_sec=4
+
+A_cpu_decode_sw_scale_nvenc  exit=0  time_sec=0.511
+
+B_hwaccel_cuda_sw_scale_nvenc  exit=0  time_sec=0.450
+
+C_cuda_frames_scale_cuda_nvenc  exit=0  time_sec=0.698
+

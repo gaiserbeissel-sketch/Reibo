@@ -1,0 +1,19 @@
+date=2026-04-18T22:12:03+08:00
+gst-inspect-1.0=/usr/bin/gst-inspect-1.0
+
+========== nvh264dec ==========
+没有那样的组件或插件‘nvh264dec’
+(not found)
+
+========== nvh264enc ==========
+没有那样的组件或插件‘nvh264enc’
+(not found)
+
+========== nvcompositor ==========
+没有那样的组件或插件‘nvcompositor’
+(not found)
+
+========== nvvidconv ==========
+没有那样的组件或插件‘nvvidconv’
+(not found)
+

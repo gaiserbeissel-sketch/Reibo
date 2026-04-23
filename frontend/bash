@@ -1,0 +1,2 @@
+错误: 当前 Node 为 v12.22.9，Vite 6 需要 Node >= 18（建议 20 LTS）。
+若已安装 nvm: 在 frontend 目录执行  nvm install && nvm use
